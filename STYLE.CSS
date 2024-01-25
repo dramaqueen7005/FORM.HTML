@@ -1,0 +1,28 @@
+#mo{
+ height: 450px;
+ width: 350px;  
+ background-color: cornflowerblue;
+ text-align: center;
+ float: left;                                     
+}
+#mn{
+height: 450px;
+width: 350px;
+background-color: darkseagreen; 
+float: left;
+margin-left: 50px;
+text-align: center;                                     
+                                        
+}
+#mp{
+height: 450px;
+width: 350px;
+background-color: darksalmon;
+text-align: center;
+float: left;
+margin-left: 50px;
+
+
+
+}
+
